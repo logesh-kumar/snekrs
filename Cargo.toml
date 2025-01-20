@@ -1,0 +1,9 @@
+[package]
+name = "learnsignals"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ctrlc = "3.4.5"
+crossterm = "0.28.1"
+rand = "0.8.5"
