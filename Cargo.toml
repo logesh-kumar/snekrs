@@ -1,9 +1,15 @@
 [package]
-name = "learnsignals"
+name = "rusty_serpent"
 version = "0.1.0"
 edition = "2021"
+authors = ["Logesh kumar <logeshgcp@gmail.com>"]
+description = "A fun terminal-based snake game written in Rust"
+license = "MIT"
+repository = "https://github.com/yourusername/rusty_serpent"
+keywords = ["game", "snake", "terminal", "arcade", "rust"]
+categories = ["games", "command-line-utilities"]
+readme = "README.md"
 
 [dependencies]
-ctrlc = "3.4.5"
 crossterm = "0.28.1"
 rand = "0.8.5"
