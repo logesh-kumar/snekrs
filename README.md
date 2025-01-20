@@ -1,33 +1,33 @@
-# 🐍 Rusty Serpent
+# 🐍 snekrs
 
-A fun, terminal-based Snake game written in Rust. Control your snake, eat food, grow longer, and try to achieve the highest score without hitting the walls or yourself!
+A quirky, terminal-based Snek (Snake) game written in Rust! Watch your noodle grow as you munch on bytes, but don't byte yourself! 
 
-## Features
+## ✨ Features
 
-- Smooth terminal-based gameplay
-- Classic snake mechanics
-- Score tracking
-- Collision detection
-- Continuous movement
-- Food spawning system
+- 🎮 Smooth terminal-based gameplay
+- 🐍 Classic snek mechanics
+- 🏆 Score tracking
+- 💥 Collision detection
+- 🏃‍♂️ Continuous movement
+- 🍎 Food spawning system
 
-## Installation
+## 🚀 Installation
 
 Install using Cargo:
 
 ```bash
-cargo install rusty_serpent
+cargo install snekrs
 ```
 
-## How to Play
+## 🎮 How to Play
 
 Run the game:
 
 ```bash
-rusty_serpent
+snekrs
 ```
 
-### Controls
+### 🎯 Controls
 
 - ⬆️ Up Arrow: Move Up
 - ⬇️ Down Arrow: Move Down
@@ -35,23 +35,27 @@ rusty_serpent
 - ➡️ Right Arrow: Move Right
 - Q: Quit Game
 
-### Game Elements
+### 🎨 Game Elements
 
-- O: Snake Head
-- o: Snake Body
+- O: Snek Head
+- o: Snek Body
 - *: Food
 - #: Wall
 
-## Development
+## 🛠️ Development
 
 To build from source:
 
 ```bash
-git clone https://github.com/yourusername/rusty_serpent
-cd rusty_serpent
+git clone https://github.com/yourusername/snekrs
+cd snekrs
 cargo build --release
 ```
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🤔 Why snekrs?
+
+Because every snake game needs a quirky name, and what's better than combining the internet's favorite spelling of snake ("snek") with Rust's favorite file extension ("rs")? 🦀🐍

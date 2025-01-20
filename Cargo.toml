@@ -1,12 +1,12 @@
 [package]
-name = "rusty_serpent"
+name = "snekrs"
 version = "0.1.0"
 edition = "2021"
 authors = ["Logesh kumar <logeshgcp@gmail.com>"]
-description = "A fun terminal-based snake game written in Rust"
+description = "A fun and quirky terminal-based snake game written in Rust 🐍"
 license = "MIT"
-repository = "https://github.com/yourusername/rusty_serpent"
-keywords = ["game", "snake", "terminal", "arcade", "rust"]
+repository = "https://github.com/logesh-kumar/snekrs"
+keywords = ["game", "snake", "terminal", "arcade", "snek"]
 categories = ["games", "command-line-utilities"]
 readme = "README.md"
 
